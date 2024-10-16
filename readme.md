@@ -55,43 +55,43 @@
       <td>Merge Sorted Array</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Remove Element</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Remove Duplicates from Sorted Array</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Remove Duplicates from Sorted Array II</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Majority Element</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Rotate Array</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Best Time to Buy and Sell Stock</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Best Time to Buy and Sell Stock II</td>
@@ -163,7 +163,7 @@
       <td>Length of Last Word</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Longest Common Prefix</td>
@@ -175,7 +175,7 @@
       <td>Reverse Words in a String</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Zigzag Conversion</td>
@@ -187,7 +187,7 @@
       <td>Find the Index of the First Occurrence in a String</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Text Justification</td>
@@ -204,13 +204,13 @@
       <td>Valid Palindrome</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Is Subsequence</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Two Sum II - Input Array Is Sorted</td>
@@ -315,25 +315,25 @@
       <td>Word Pattern</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Valid Anagram</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Group Anagrams</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Two Sum</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Happy Number</td>
@@ -391,31 +391,31 @@
       <td>Valid Parentheses</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Simplify Path</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Min Stack</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Evaluate Reverse Polish Notation</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Basic Calculator</td>
       <td>Hard</td>
       <td>🔴</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td colspan="4" align="center">
@@ -426,19 +426,19 @@
       <td>Linked List Cycle</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Add Two Numbers</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Merge Two Sorted Lists</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Copy List with Random Pointer</td>
@@ -462,7 +462,7 @@
       <td>Remove Nth Node From End of List</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Remove Duplicates from Sorted List II</td>
@@ -474,7 +474,7 @@
       <td>Rotate List</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Partition List</td>
@@ -719,19 +719,19 @@
       <td>Letter Combinations of a Phone Number</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Combinations</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Permutations</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Combination Sum</td>
@@ -743,7 +743,7 @@
       <td>N-Queens II</td>
       <td>Hard</td>
       <td>🔴</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Generate Parentheses</td>
@@ -888,37 +888,37 @@
       <td>Add Binary</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Reverse Bits</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Number of 1 Bits</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Single Number</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Single Number II</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Bitwise AND of Numbers Range</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td colspan="4" align="center">
@@ -929,37 +929,37 @@
       <td>Palindrome Number</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Plus One</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Factorial Trailing Zeroes</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Sqrt(x)</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Pow(x, n)</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Max Points on a Line</td>
       <td>Hard</td>
       <td>🔴</td>
-      <td>✅</td>
+      <td> </td>
     </tr>
     <tr>
       <td colspan="4" align="center">
