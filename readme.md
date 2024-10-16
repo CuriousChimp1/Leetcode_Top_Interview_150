@@ -309,7 +309,7 @@
       <td>Isomorphic Strings</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Word Pattern</td>
