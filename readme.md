@@ -1,4 +1,4 @@
-<h1>Leetcode Top Interview 150</h1>
+F<h1>Leetcode Top Interview 150</h1>
 <p>
   <img
     src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&amp;logoColor=white"
@@ -315,7 +315,7 @@
       <td>Word Pattern</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Valid Anagram</td>
