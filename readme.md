@@ -1,4 +1,4 @@
-F<h1>Leetcode Top Interview 150</h1>
+<h1>Leetcode Top Interview 150</h1>
 <p>
   <img
     src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&amp;logoColor=white"
@@ -33,7 +33,7 @@ F<h1>Leetcode Top Interview 150</h1>
   This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Java, and Python Programming languages.
 </p>
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-4%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-6%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -321,7 +321,7 @@ F<h1>Leetcode Top Interview 150</h1>
       <td>Valid Anagram</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Group Anagrams</td>
@@ -333,7 +333,7 @@ F<h1>Leetcode Top Interview 150</h1>
       <td>Two Sum</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Happy Number</td>
