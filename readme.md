@@ -345,7 +345,7 @@
       <td>Contains Duplicate II</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Longest Consecutive Sequence</td>
