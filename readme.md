@@ -450,7 +450,7 @@
       <td>Reverse Linked List II</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Reverse Nodes in k-Group</td>
