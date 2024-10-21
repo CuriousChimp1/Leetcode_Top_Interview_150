@@ -432,7 +432,7 @@
       <td>Add Two Numbers</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td> </td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Merge Two Sorted Lists</td>
