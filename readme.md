@@ -480,7 +480,7 @@
       <td>Partition List</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>LRU Cache</td>
