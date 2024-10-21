@@ -462,7 +462,7 @@
       <td>Remove Nth Node From End of List</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td> </td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Remove Duplicates from Sorted List II</td>
