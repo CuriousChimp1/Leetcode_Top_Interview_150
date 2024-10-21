@@ -468,7 +468,7 @@
       <td>Remove Duplicates from Sorted List II</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Rotate List</td>
