@@ -55,7 +55,7 @@
       <td>Merge Sorted Array</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Remove Element</td>
