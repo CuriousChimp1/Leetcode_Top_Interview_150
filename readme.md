@@ -187,7 +187,7 @@
       <td>Find the Index of the First Occurrence in a String</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Text Justification</td>
