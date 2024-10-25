@@ -509,7 +509,7 @@
       <td>Invert Binary Tree</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅<</td>
     </tr>
     <tr>
       <td>Symmetric Tree</td>
