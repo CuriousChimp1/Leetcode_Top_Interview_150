@@ -503,7 +503,7 @@
       <td>Same Tree</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Invert Binary Tree</td>
