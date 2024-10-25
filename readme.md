@@ -497,7 +497,7 @@
       <td>Maximum Depth of Binary Tree</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Same Tree</td>
@@ -580,7 +580,7 @@
       <td>Binary Tree Right Side View</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Average of Levels in Binary Tree</td>
@@ -592,7 +592,7 @@
       <td>Binary Tree Level Order Traversal</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Binary Tree Zigzag Level Order Traversal</td>
