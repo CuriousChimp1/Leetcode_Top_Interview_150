@@ -509,13 +509,13 @@
       <td>Invert Binary Tree</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td>✅<</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Symmetric Tree</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Construct Binary Tree from Preorder and Inorder Traversal</td>
@@ -545,7 +545,7 @@
       <td>Path Sum</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Sum Root to Leaf Numbers</td>
