@@ -145,7 +145,7 @@
       <td>Trapping Rain Water</td>
       <td>Hard</td>
       <td>🔴</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Roman to Integer</td>
