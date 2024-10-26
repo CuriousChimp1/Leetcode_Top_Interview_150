@@ -127,7 +127,7 @@
       <td>Product of Array Except Self</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Gas Station</td>
