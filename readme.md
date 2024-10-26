@@ -795,7 +795,7 @@
       <td>Maximum Subarray</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Maximum Sum Circular Subarray</td>
