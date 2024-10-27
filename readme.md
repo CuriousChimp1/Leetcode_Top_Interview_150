@@ -941,7 +941,7 @@
       <td>Factorial Trailing Zeroes</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td> </td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Sqrt(x)</td>
