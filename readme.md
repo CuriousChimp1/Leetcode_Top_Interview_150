@@ -280,7 +280,7 @@
       <td>Rotate Image</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Set Matrix Zeroes</td>
