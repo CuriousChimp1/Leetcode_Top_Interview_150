@@ -268,7 +268,7 @@
       <td>Valid Sudoku</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Spiral Matrix</td>
