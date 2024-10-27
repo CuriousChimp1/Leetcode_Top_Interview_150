@@ -947,7 +947,7 @@
       <td>Sqrt(x)</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td> </td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Pow(x, n)</td>
