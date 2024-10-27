@@ -274,7 +274,7 @@
       <td>Spiral Matrix</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Rotate Image</td>
