@@ -286,7 +286,7 @@
       <td>Set Matrix Zeroes</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Game of Life</td>
