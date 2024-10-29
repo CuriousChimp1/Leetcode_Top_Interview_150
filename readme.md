@@ -731,7 +731,7 @@
       <td>Permutations</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td> </td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Combination Sum</td>
