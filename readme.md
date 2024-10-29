@@ -737,7 +737,7 @@
       <td>Combination Sum</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>N-Queens II</td>
