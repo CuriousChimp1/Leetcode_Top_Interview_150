@@ -725,7 +725,7 @@
       <td>Combinations</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td> </td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Permutations</td>
