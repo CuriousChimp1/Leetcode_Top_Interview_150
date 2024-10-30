@@ -719,7 +719,7 @@
       <td>Letter Combinations of a Phone Number</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td> </td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Combinations</td>
@@ -743,13 +743,13 @@
       <td>N-Queens II</td>
       <td>Hard</td>
       <td>🔴</td>
-      <td> </td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Generate Parentheses</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Word Search</td>
