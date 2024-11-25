@@ -632,19 +632,19 @@
       <td>Number of Islands</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Surrounded Regions</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Clone Graph</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Evaluate Division</td>
@@ -859,25 +859,25 @@
       <td>Kth Largest Element in an Array</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>IPO</td>
       <td>Hard</td>
       <td>🔴</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Find K Pairs with Smallest Sums</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Find Median from Data Stream</td>
       <td>Hard</td>
       <td>🔴</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td colspan="4" align="center">
